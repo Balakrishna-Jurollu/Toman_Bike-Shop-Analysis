@@ -3,7 +3,7 @@
 This project aims to help a bicycle shop owner make informed pricing decisions for the upcoming year by analyzing historical sales data. Using SQL Server for data extraction and Power BI for data visualization, a dynamic dashboard was built to identify key trends and opportunities for price adjustments.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/Balakrishna-Jurollu/Toman_Bike-Shop-Analysis/blob/main/bike_share_yr_0.csv">Dataset</a>
 
 ## Questions (KPIs)
 - Compare Analyze historical sales data to evaluate pricing opportunities.
