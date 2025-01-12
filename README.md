@@ -18,7 +18,7 @@ This project aims to help a bicycle shop owner make informed pricing decisions f
 
 ## Dashboard
 
-![Screenshot (495)][Toman_Bike shop Dashboard](https://github.com/user-attachments/assets/ec94270d-3f07-447e-900f-8e9105c1be1f)
+![Screenshot (495)]![Toman_Bike shop Dashboard](https://github.com/user-attachments/assets/ec94270d-3f07-447e-900f-8e9105c1be1f)
 
 ## Project Insight
 - Based on the analysis, the following conclusions were drawn:
