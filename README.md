@@ -9,7 +9,7 @@ This project aims to help a bicycle shop owner make informed pricing decisions f
 - Compare Analyze historical sales data to evaluate pricing opportunities.
 - Provide actionable insights for a potential price increase in the coming year.
 - Deliver tailored recommendations to optimize pricing strategies while considering demand and supply factors.
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Balakrishna-Jurollu/Toman_Bike-Shop-Analysis/blob/main/Toman_Bike%20shop%20Dashboard.png">View Dashboard</a>
 
 ## Process
 - Data Import: Extracted and processed data from SQL Server.
